@@ -3,9 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
+    MSA @MSA # THANKS
 
     <name>
 
